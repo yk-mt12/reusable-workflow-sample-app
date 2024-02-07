@@ -5,7 +5,7 @@ on:
 
 jobs:
   sample:
-    uses: "/yk-mt12/reusable-workflow/.github/workflows/notify-slack.yml@main"
+    uses: "/yk-mt12/my-github-workflows/.github/workflows/notify-slack.yml@main"
     with:
       message: test sample
     secrets:

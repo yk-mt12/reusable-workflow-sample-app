@@ -6,5 +6,3 @@ reusable-workflowの練習のためのサンプルアプリです。
 
 ## 参考資料
 - https://qiita.com/ohakutsu/items/20668a407d0cf2131b58
-
-test
